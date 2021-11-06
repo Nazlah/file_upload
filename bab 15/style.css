@@ -1,0 +1,15 @@
+nav {
+  background-color: #b7dce2;
+  margin-bottom: 25px;
+}
+
+.navbar-brand img {
+  max-height: 80px;
+}
+
+table img {
+  height: 120px;
+  width: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+}
